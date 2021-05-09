@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #800080; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -182,7 +182,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #574175;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -214,7 +214,7 @@ ul#nav li.current a { color: #fe6928; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: #e326f8;
 }
 #about .download .button:hover {
    background: #fff;
@@ -223,6 +223,12 @@ ul#nav li.current a { color: #fe6928; }
 #about .download .button i {
    margin-right: 15px;
    font-size: 20px;
+}
+@media only screen and (max-width: 600px) {
+
+.svg{
+   width: 200px;
+}
 }
 
 
@@ -412,7 +418,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #F5BD02;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -1017,8 +1023,8 @@ footer .social-links li:first-child { margin-left: 0; }
    margin-right: 15px;
 }
 .project-btn{
-   background-color: #1abc9c !important;
+   background-color: #2410d1 !important;
 }
 .github-btn{
-   background-color: #34495e !important;
+   background-color: #ce200c !important;
 }

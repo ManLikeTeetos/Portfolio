@@ -1,46 +1,43 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Ade-ojo Toluwanimi",
+    "welcome": "Welcome to My Portfolio",
+    "description":"Full-Stack Developer, Back-End Engineer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I am a Software Developer with 3+ years of Professional Experience.Experienced in Wordpress Development and leveraging plugins such as Elementor  Astra, WPmail, Woo-commerce and many others. I am a highly motivated individual, I believe everything is possible in the world of IT. I have a strong drive for productivity and team work. Setting goals and meeting them at the expected time is on of my core values.",
+    "contactmessage":"For bookings and Enquires please call the Phone Line or drop a message.",
+    "email": "tolu.mastermindz@gmail.com",
+    "phone": "+234 808 900 5544",
+    "github":"https://github.com/ManLikeTeetos",
+    "project":"https://www.linkedin.com/in/ade-ojo-toluwanimi/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Gbagada,",
+      "state":"Lagos State",
+      "zip": "100234"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
+    
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/ManLikeTeetos",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ade-ojo-toluwanimi/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/kingteetos",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ManLikeTeetos",
         "className":"fa fa-github"
       }
     ]
@@ -49,83 +46,99 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Google Africa Developer Scholarships",
+        "degree":"Associate Android Developer",
+        "graduated":"October 2020",
+        "description":"It was an awessome and enlightening experience, I learn how to build an Android app using Java, It sharpened my skills in Team work as we were to work in Teams."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Michigan",
+        "degree":"Python For Everybody Specialization(Coursera)",
+        "graduated":"July 2020",
+        "description":""
+      },
+      {
+        "school":"Echomyke Acacdemy, Lagos State",
+        "degree":"Web designing and applications",
+        "graduated":"Web designing and applications",
+        "description":"Web Development, HTML, CSS, Hosting Services, Wordpress."
+      },
+      {
+        "school":"University of Lagos, Lagos State.",
+        "degree":"Bachelor of Science (Chemical Engineering)",
+        "graduated":"July 2016",
+        "description":""
       }
+
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Syssoft Consultants Limited",
+        "title":"Software Developer ",
+        "years":"September 2019 - Present",
+        "description":"I provide software solutions to Insurance Companies in Nigeria using Php, Mysql, Javascript and CSS programming LanguagesResponsible for the Technical Documentation of Php, Mysql and Javascript files of all the Modules used in IES ( Insurance Enterprise System) to proffer solutions for major Insurance Company in NigeriaVersatile with the Integration of API and Manipulation of Results from API.Leveraging of Wordpress tools and plugins for the creation of responsive Website"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Freeup. Net",
+        "title":"Software Developer",
+        "years":"November 2020 - Present",
+        "description":"Wordpress Developer, Website Application and Development."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"PHP",
+        "level":"90%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"HTML",
+        "level":"90%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"MySql",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"GIT",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Javascript",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"AandG Insurance Plc",
+        "category":"A website for one of the Leading Insurance Company In Nigeria",
+        "image":"07.jpg",
+        "url":"https://aginsuranceplc.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Wakama Thompson",
+        "category":"",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://wakamathompson.com"
       },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
+     
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
@@ -133,10 +146,10 @@
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Wakama Thompson",
+        "category":"A Contact Website",
+        "image":"08.jpg",
+        "url":"http://wakamathompson.com"
       },
       {
         "title":"Canadian Wanderlust",
