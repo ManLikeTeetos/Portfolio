@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Ade-ojo Toluwanimi",
+    "welcome": "Welcome to My Portfolio",
+    "description":"Full-Stack Developer, Back-End Engineer",
+    "image":"profilepic.jpg",
+    "bio":"I am a Software Developer with 3+ years of Professional Experience.Experienced in Wordpress Development and leveraging plugins such as Elementor  Astra, WPmail, Woo-commerce and many others. I am a highly motivated individual, I believe everything is possible in the world of IT. I have a strong drive for productivity and team work. Setting goals and meeting them at the expected time is on of my core values.",
+    "contactmessage":"For bookings and Enquires please call the Phone Line or drop a message.",
+    "email": "tolu.mastermindz@gmail.com",
+    "phone": "+234 808 900 5544",
+    "github":"https://github.com/ManLikeTeetos",
+    "project":"https://www.linkedin.com/in/ade-ojo-toluwanimi/",
+    "address":{
+      "street":"",
+      "city":"Gbagada,",
+      "state":"Lagos State",
+      "zip": "100234"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+    
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/ManLikeTeetos",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ade-ojo-toluwanimi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/kingteetos",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ManLikeTeetos",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Google Africa Developer Scholarships",
+        "degree":"Associate Android Developer",
+        "graduated":"October 2020",
+        "description":"It was an awessome and enlightening experience, I learn how to build an Android app using Java, It sharpened my skills in Team work as we were to work in Teams."
+      },
+      {
+        "school":"University of Michigan",
+        "degree":"Python For Everybody Specialization(Coursera)",
+        "graduated":"July 2020",
+        "description":""
+      },
+      {
+        "school":"Echomyke Acacdemy, Lagos State",
+        "degree":"Web designing and applications",
+        "graduated":"Web designing and applications",
+        "description":"Web Development, HTML, CSS, Hosting Services, Wordpress."
+      },
+      {
+        "school":"University of Lagos, Lagos State.",
+        "degree":"Bachelor of Science (Chemical Engineering)",
+        "graduated":"July 2016",
+        "description":""
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Syssoft Consultants Limited",
+        "title":"Software Developer ",
+        "years":"September 2019 - Present",
+        "description":"I provide software solutions to Insurance Companies in Nigeria using Php, Mysql, Javascript and CSS programming LanguagesResponsible for the Technical Documentation of Php, Mysql and Javascript files of all the Modules used in IES ( Insurance Enterprise System) to proffer solutions for major Insurance Company in NigeriaVersatile with the Integration of API and Manipulation of Results from API.Leveraging of Wordpress tools and plugins for the creation of responsive Website"
+      },
+      {
+        "company":"Freeup. Net",
+        "title":"Software Developer",
+        "years":"November 2020 - Present",
+        "description":"Wordpress Developer, Website Application and Development."
+      }
+    ],
+    "skills":[
+      {
+        "name":"PHP",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"MySql",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"GIT",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"AandG Insurance Plc",
+        "category":"A website for one of the Leading Insurance Company In Nigeria",
+        "image":"07.jpg",
+        "url":"https://aginsuranceplc.com"
+      },
+      {
+        "title":"Wakama Thompson",
+        "category":"A Contact Website",
+        "image":"02.jpg",
+        "url":"http://wakamathompson.com"
+      },
+     
+      {
+        "title":"AandG Client Portal",
+        "category":"A Web Application using API",
+        "image":"03.jpg",
+        "url":"https://aginsuranceplc.com/client_portal"
+      },
+      {
+        "title":"Wakama Thompson",
+        "category":"A Contact Website",
+        "image":"08.jpg",
+        "url":"http://wakamathompson.com"
+      }
+    
+   
+     
+   
+    ]
+  }
+}
