@@ -231,6 +231,16 @@ ul#nav li.current a { color: #fe6928; }
 }
 }
 
+@media only screen and (max-width: 390px) {
+
+   .svg{
+      width: 150px;
+   }
+   #about {
+      font-size: 8px;
+   }
+   }
+
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -934,13 +944,13 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #FFFFFF;
    font-size: 14px;
    text-align: center;
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #fff; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
