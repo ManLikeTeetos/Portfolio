@@ -635,7 +635,25 @@ input[type="checkbox"] { display: inline; }
    float: left;
    padding-left: 80px;
    border: 2px;
+}
+@media only screen and (max-width: 768px) {
+
+.float-child1 {
+   width: 30%;
+   border: 2px;
 }  
+.float-child2 {
+   width: 70%;
+   border: 2px;
+   margin: 40% 20%;
+   
+}  
+ .svg{
+    margin: 40% 100%;
+    margin-top: -150px;
+    margin-bottom: -300px;
+ }
+}
 /* removed gutters */
 .row.collapsed > .column,
 .row.collapsed > .columns,
