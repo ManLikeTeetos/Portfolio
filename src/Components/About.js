@@ -28,11 +28,11 @@ class About extends Component {
             <div className="fourteen nine columns main-col">
               <h2>About Me</h2>
 
-              <p style="font-size: 15px !important;">{bio}</p>
+              <p className="fontpag" >{bio}</p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
-                    <p style="font-size: 15px !important;" className="address">
+                    <p className="address fontpag">
                     <span>{name}</span>
                     <br />
                     <span>
