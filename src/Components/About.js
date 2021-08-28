@@ -25,7 +25,7 @@ class About extends Component {
           <Profile/>
           </div>
           <div className="float-child2">
-            <div className="fourteen nine columns main-col">
+            <div className="fourteen nine  main-col">
               <h2>About Me</h2>
 
               <p className="fontpag">{bio}</p>
