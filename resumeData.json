@@ -120,7 +120,7 @@
       },
       {
         "name":"Javascript",
-        "level":"60%"
+        "level":"70%"
       }
     ]
   },
@@ -138,12 +138,24 @@
         "image":"02.jpg",
         "url":"http://wakamathompson.com"
       },
+      {
+        "title":"Delta Technical $ Support Services LTD",
+        "category":"A Procurement Website",
+        "image":"img3.jpg",
+        "url":"https://deltatssl.com.ng"
+      },
      
       {
         "title":"AandG Client Portal",
         "category":"A Web Application using API",
         "image":"03.jpg",
         "url":"https://aginsuranceplc.com/client_portal"
+      },
+      {
+        "title":"Delta Technical $ Support Services LTD",
+        "category":"A Procurement Website",
+        "image":"img4.jpg",
+        "url":"https://deltatssl.com.ng"
       },
       {
         "title":"Wakama Thompson",
