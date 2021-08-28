@@ -12,10 +12,12 @@ class Portfolio extends Component {
 
       return (
         <div key={id++} className="columns portfolio-item">
+         
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+          <a href={projects.url}> <Zmage alt={projects.title} src={projectImage} /> </a>
+          <a href={projects.url}> <div style={{ textAlign: "center" }}>{projects.title}</div> </a>
           </div>
+         
         </div>
       );
     });
@@ -31,7 +33,7 @@ class Portfolio extends Component {
                 id="portfolio-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
               >
-                <a href={projects.url}>{projects} </a>
+                 {projects} 
               </div>
             </div>
           </div>
