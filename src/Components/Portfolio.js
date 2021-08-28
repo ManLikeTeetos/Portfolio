@@ -31,7 +31,7 @@ class Portfolio extends Component {
                 id="portfolio-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
               >
-                {projects}
+                <a href= {projects.url} >{projects} </a>
               </div>
             </div>
           </div>

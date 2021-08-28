@@ -22,17 +22,17 @@ class About extends Component {
         <Fade duration={1000}>
           <div className="row">
            <div className="float-child1">
-          <Profile />
+          <Profile/>
           </div>
           <div className="float-child2">
             <div className="fourteen nine columns main-col">
               <h2>About Me</h2>
 
-              <p>{bio}</p>
+              <p style="font-size: 15px !important;">{bio}</p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
-                  <p className="address">
+                    <p style="font-size: 15px !important;" className="address">
                     <span>{name}</span>
                     <br />
                     <span>
