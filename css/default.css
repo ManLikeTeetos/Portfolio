@@ -646,7 +646,8 @@ input[type="checkbox"] { display: inline; }
    width: 70%;
    border: 2px;
    margin: 40% 20%;
-   
+   padding-left: 0px;
+
 }  
  .svg{
     margin: 40% 100%;
