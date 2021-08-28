@@ -74,7 +74,7 @@ audio:not([controls]) {
    height: 0;
 }
 
-fontpag {
+.fontpag {
    font-size: 15px !important;
 }
 
