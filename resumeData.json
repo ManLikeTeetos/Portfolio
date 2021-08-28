@@ -139,18 +139,19 @@
         "url":"http://wakamathompson.com"
       },
       {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
         "title":"Delta TSS LTD",
         "category":"A Procurement Website",
         "image":"img3.JPG",
         "url":"https://deltatssl.com.ng"
       },
      
-      {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
-      },
+     
       {
         "title":"AandG Client Portal",
         "category":"A Web Application using API",
@@ -164,17 +165,18 @@
         "url":"https://deltatssl.com.ng"
       },
       {
-        "title":"Wakama Thompson",
-        "category":"A Contact Website",
-        "image":"08.jpg",
-        "url":"http://wakamathompson.com"
-      },
-      {
         "title":"",
         "category":"",
         "image":"",
         "url":""
       }
+      {
+        "title":"Wakama Thompson",
+        "category":"A Contact Website",
+        "image":"08.jpg",
+        "url":"http://wakamathompson.com"
+      },
+     
    
      
    
