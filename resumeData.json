@@ -139,12 +139,18 @@
         "url":"http://wakamathompson.com"
       },
       {
-        "title":"Delta Technical $ Support Services LTD",
+        "title":"Delta TSS LTD",
         "category":"A Procurement Website",
         "image":"img3.JPG",
         "url":"https://deltatssl.com.ng"
       },
      
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
       {
         "title":"AandG Client Portal",
         "category":"A Web Application using API",
@@ -152,7 +158,7 @@
         "url":"https://aginsuranceplc.com/client_portal"
       },
       {
-        "title":"Delta Technical $ Support Services LTD",
+        "title":"Delta TSS LTD",
         "category":"A Procurement Website",
         "image":"img4.JPG",
         "url":"https://deltatssl.com.ng"
@@ -162,8 +168,13 @@
         "category":"A Contact Website",
         "image":"08.jpg",
         "url":"http://wakamathompson.com"
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
       }
-    
    
      
    
