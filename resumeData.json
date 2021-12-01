@@ -4,7 +4,8 @@
     "welcome": "",
     "description":"Full-Stack Developer, Back-End Engineer",
     "image":"profilepic.jpg",
-    "bio":"Ade-ojo Toluwanimi is known for his Creativity, Passion and Dedication in proffering digital solutions. He is Goal-oriented, A good Team Player and Delivers right on time. I have always been fascinated with about Logical Reasoning and how it can make the world we live in easier. This brought me into the world of programming and voila! I am currently a Software Engineer and UI/UX designer.",
+    "bio":"Ade-ojo Toluwanimi is known for his Creativity, Passion and Dedication in proffering digital solutions. He is Goal-oriented, A good Team Player and Delivers right on time.", 
+    "bio_two":"I have always been fascinated with about Logical Reasoning and how it can make the world we live in easier. This brought me into the world of programming and voila! I am currently a Software Engineer and UI/UX designer.",
     "contactmessage":"For bookings and Enquires please call the Phone Line or drop a message.",
     "email": "tolu.mastermindz@gmail.com",
     "phone": "+234 808 900 5544",
@@ -143,10 +144,10 @@
         "url":"http://wakamathompson.com"
       },
       {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
+        "title":"Hedgelon",
+        "category":"A Procurement Website",
+        "image":"hedgelon.jpg",
+        "url":"https://hedgelon.co.uk"
       },
       {
         "title":"Delta TSS LTD",
@@ -167,12 +168,6 @@
         "category":"A Procurement Website",
         "image":"img4.JPG",
         "url":"https://deltatssl.com.ng/about.php"
-      },
-      {
-        "title":"",
-        "category":"",
-        "image":"",
-        "url":""
       },
       {
         "title":"Wakama Thompson",
