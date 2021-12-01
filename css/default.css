@@ -648,15 +648,17 @@ input[type="checkbox"] { display: inline; }
   margin-left: auto;
   margin-right: auto;
   float: none;
+  width: 100%;
 }  
 .float-child2 {
-   display:block;
+  display:block;
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
   padding-right: 20px;
-   text-align:center;
-   float:none;
+  text-align:center;
+  float:none;
+  width: 100%;
 
 }  
 
