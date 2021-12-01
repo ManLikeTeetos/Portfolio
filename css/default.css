@@ -629,13 +629,13 @@ input[type="checkbox"] { display: inline; }
     margin: 0 auto;
 }
 .float-child1 {
-   width: 30%;
+   width: 40%;
    float: left;
    padding: 10px;
    border: 2px;
 }  
 .float-child2 {
-   width: 70%;
+   width: 60%;
    float: left;
    padding-left: 80px;
    border: 2px;
@@ -644,22 +644,20 @@ input[type="checkbox"] { display: inline; }
 @media only screen and (max-width: 768px) {
 
 .float-child1 {
-   width: 30%;
-   border: 2px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }  
 .float-child2 {
-   width: 70%;
-   border: 2px;
-   margin: 40% 20%;
-   padding-left: 0px;
+   display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
    text-align:center;
 
 }  
- .svg{
-    margin: 40% 100%;
-    margin-top: -150px;
-    margin-bottom: -300px;
- }
+
 }
 /* removed gutters */
 .row.collapsed > .column,
